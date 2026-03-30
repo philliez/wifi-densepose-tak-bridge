@@ -11,7 +11,7 @@ This project acts as a bridge between the WiFi-DensePose sensing server and a TA
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/philliez/wifi-densepose-tak-bridge.git
+    git clone https://github.com/your-username/wifi-densepose-tak-bridge.git
     cd wifi-densepose-tak-bridge
     ```
 2.  Install dependencies:
@@ -27,7 +27,7 @@ This project acts as a bridge between the WiFi-DensePose sensing server and a TA
     python tak_bridge.py \
       --tak-server 165.1.73.192 \
       --tak-port 8089 \
-      --p12 /path/to/your/cert.p12 \
+      --p12 /path/to/your/certificate.p12 \
       --ca /path/to/your/ca.crt \
       --password YOUR_CERT_PASSWORD \
       --sensing-server http://localhost:8080 \
