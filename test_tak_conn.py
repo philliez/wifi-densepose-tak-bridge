@@ -6,8 +6,8 @@ import os
 
 TAK_SERVER = "165.1.73.192"
 TAK_PORT = 8089
-TAK_USER_P12 = "/home/phill/esp/tak_certs/ATAK/cert/philliez.p12"
-TAK_CA_CRT = "/home/phill/esp/tak_certs/ATAK/cert/ca.crt"
+TAK_USER_P12 = "/home/phill/esp/atfsphilliez/ATAK/cert/philliez.p12"
+TAK_CA_CRT = "/home/phill/esp/atfsphilliez/ATAK/cert/ca.crt"
 TAK_PASSWORD = "FWb9KSwAemRzwgcgFEChY5oWkwivlPT9"
 
 async def test_conn():

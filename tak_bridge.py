@@ -9,8 +9,8 @@ import pytak
 # Default configuration
 DEFAULT_TAK_SERVER = "165.1.73.192"
 DEFAULT_TAK_PORT = "8089"
-DEFAULT_P12_PATH = "/home/phill/esp/tak_certs/ATAK/cert/philliez.p12"
-DEFAULT_CA_PATH = "/home/phill/esp/tak_certs/ATAK/cert/ca.crt"
+DEFAULT_P12_PATH = "/home/phill/esp/atfsphilliez/ATAK/cert/philliez.p12"
+DEFAULT_CA_PATH = "/home/phill/esp/atfsphilliez/ATAK/cert/ca.crt"
 DEFAULT_PASSWORD = "FWb9KSwAemRzwgcgFEChY5oWkwivlPT9"
 DEFAULT_SENSING_SERVER = "http://localhost:8080"
 DEFAULT_CALLSIGN = "WiFi-DP-Sensor-1"
