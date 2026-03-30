@@ -1,0 +1,14 @@
+Archer-FTS-Philliez/
+Archer-FTS-Philliez.zip
+tak_certs/
+wifi-densepose/
+venv/
+*.log
+udevadmoutput.txt
+usb-devicesoutput.txt
+nvs_config.csv
+firmware_bins/
+data/
+__pycache__/
+*.p12
+*.crt
